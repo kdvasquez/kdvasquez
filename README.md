@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Karla, and I am a recent Computer Engineering and Computer Science (CECS) graduate from the University of Southern CA. Currently, I am interning for a startup Platia, finding my niche while tutoring elementary school students in math and English on the side. You can learn more about me on my website at kdvasquez.github.io. Please feel free to reach out!
+My name is Karla, and I'm a recent Computer Engineering and Computer Science (CECS) graduate from the University of Southern California. Currently, I'm interning at Platia while tutoring elementary school students in math and English on the side as I find my niche in tech.
+
+You can learn more about me on my website at kdvasquez.github.io. Feel free to reach out!
