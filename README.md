@@ -1,4 +1,4 @@
-## Hello, I'm Karla! 👋 
+## Hello, I'm Karla! 👋 <img height="64" alt="AnimatedCherryBlossomMountainStamps-ezgif com-remove-background" src="https://github.com/user-attachments/assets/6321362d-1317-4765-b063-d280688b5a18" />
 
 I'm currently:
 - A Software Developer Associate at <img src="https://www.google.com/s2/favicons?domain=digitalnest.org&sz=64" height="16" alt="Digital NEST" /> **[Digital NEST](https://digitalnest.org/)**
@@ -14,6 +14,6 @@ I've also previously:
 <p align="center">
   📮 Feel free to reach out @ <a href="https://kdvasquez.github.io/">kdvasquez.github.io</a> 
 </p>
-<p align="center">
+<!-- <p align="center">
   <img height="64" alt="AnimatedCherryBlossomMountainStamps-ezgif com-remove-background" src="https://github.com/user-attachments/assets/6321362d-1317-4765-b063-d280688b5a18" />
-</p>
+</p> -->
