@@ -8,7 +8,7 @@ I'm currently:
 I've also previously:
 - Interned at <img src="https://www.google.com/s2/favicons?domain=platia.app&sz=64" height="16" alt="Platia" /> **[Platia](https://platia.app/)** on their Platia Pay and Office Web team
 - Tutored elementary school students in math and ELA through <img src="https://www.google.com/s2/favicons?domain=heytutor.com&sz=64" height="16" alt="HeyTutor" /> **[HeyTutor](https://heytutor.com/)**
-- Developed a [church website](https://iddpmisoledad.netlify.app/) integrating <img src="https://cdn.simpleicons.org/facebook" height="14" alt="Facebook" /> Facebook livestreams, <img src="https://api.iconify.design/logos/google-calendar.svg" height="14" alt="Google Calendar" /> Google Calendar, and <img src="https://cdn.simpleicons.org/netlify" height="14" alt="Netlify" /> Netlify Forms
+- Developed a [church website](https://iddpmisoledad.netlify.app/) integrating Facebook livestreams, Google Calendar, and Netlify Forms
 - Conducted research on ChatGPT in education and co-authored an accepted abstract for <img src="https://www.google.com/s2/favicons?domain=experienceifore.org&sz=64" height="16" alt="iFORE" /> **[iFORE 2023](https://www.experienceifore.org/ifore23-recap)**
 
 <!-- Add your animated postcard here in the future -->
