@@ -13,5 +13,7 @@ I've also previously:
 
 <p align="center">
   📮 Feel free to reach out @ <a href="https://kdvasquez.github.io/">kdvasquez.github.io</a> 
-  <img height="16" alt="AnimatedCherryBlossomMountainStamps-ezgif com-remove-background" src="https://github.com/user-attachments/assets/6321362d-1317-4765-b063-d280688b5a18" />
+</p>
+<p align="center">
+  <img height="32" alt="AnimatedCherryBlossomMountainStamps-ezgif com-remove-background" src="https://github.com/user-attachments/assets/6321362d-1317-4765-b063-d280688b5a18" />
 </p>
