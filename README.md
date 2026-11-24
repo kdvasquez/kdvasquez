@@ -1,7 +1,7 @@
 ## Hello, I'm Karla! 👋 
 
 I'm currently:
-- A Software Developer Associate @ <img src="https://www.google.com/s2/favicons?domain=digitalnest.org&sz=64" height="16" alt="Digital NEST" /> **[Digital NEST](https://digitalnest.org/)**
+- A Software Developer Associate at <img src="https://www.google.com/s2/favicons?domain=digitalnest.org&sz=64" height="16" alt="Digital NEST" /> **[Digital NEST](https://digitalnest.org/)**
 - A recent <img src="https://www.google.com/s2/favicons?domain=usc.edu&sz=64" height="16" alt="USC" /> **[USC](https://usc.edu/)** CECS graduate interested in the intersection of tech & education and exploring the world of Cloud & AI
 - Substitute teaching elementary school students on the side
 
