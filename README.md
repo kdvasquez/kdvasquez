@@ -15,5 +15,5 @@ I've also previously:
   📮 Feel free to reach out @ <a href="https://kdvasquez.github.io/">kdvasquez.github.io</a> 
 </p>
 <p align="center">
-  <img height="412" alt="AnimatedCherryBlossomMountainStamps-ezgif com-remove-background" src="https://github.com/user-attachments/assets/6321362d-1317-4765-b063-d280688b5a18" />
+  <img height="256" alt="AnimatedCherryBlossomMountainStamps-ezgif com-remove-background" src="https://github.com/user-attachments/assets/6321362d-1317-4765-b063-d280688b5a18" />
 </p>
