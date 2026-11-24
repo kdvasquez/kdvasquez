@@ -12,10 +12,11 @@ I've also previously:
 - Co-authored an accepted research abstract for <img src="https://www.google.com/s2/favicons?domain=experienceifore.org&sz=64" height="16" alt="iFORE" /> **[iFORE 2023](https://www.experienceifore.org/ifore23-recap)**
 
 <p align="center">
-  📧 Feel free to reach out @ <a href="https://kdvasquez.github.io/">kdvasquez.github.io</a> 
+  📮 Feel free to reach out @ <a href="https://kdvasquez.github.io/">kdvasquez.github.io</a> 
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kdvasquez&label=Profile%20views&color=ffc8dd&style=flat" alt="Profile views" />
 </p>
+<img width="511" height="341" alt="Animated Pixel Sunset Postage Stamp" src="https://github.com/user-attachments/assets/5c9c74e3-0e5b-49ba-9926-bd65a3efac3c" />
 
